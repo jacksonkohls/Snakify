@@ -6,6 +6,7 @@ import math
 # pi/21600 = 1 second
 # pi radians = 180 degrees
 # pi/21600 radians = 1/120 degrees
+
 h = int(input())
 m = int(input())
 s = int(input())
